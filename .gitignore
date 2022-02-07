@@ -1,0 +1,7 @@
+#npm (for case if npm modules was installed in work folder)
+/node_modules
+/*.zip
+/js/icons.bundle.js
+/js/icons.bundle.js.map
+/js/account.bundle.js.LICENSE.txt
+/js/main.bundle.js.LICENSE.txt
